@@ -1,0 +1,41 @@
+
+body{
+    
+    background: #000046;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+
+.notexarea {
+    resize: none;
+}
+
+#tam{
+    font-size: x-large;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+#textoblanco{
+    color: #ffffff;
+}
+
+#descripcion {
+    resize: none;
+}
+
+.centrado {
+    text-align: start;
+    vertical-align: middle;
+}
+
+#contacto{
+    display: none;
+}
